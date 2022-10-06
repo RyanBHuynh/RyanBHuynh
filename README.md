@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RyanBHuynh
-- 👀 I’m interested in computer science, software engineering, machine learning, and aligning artificial intelligence systems
+- 👀 I’m interested in computer science, software engineering, machine learning, and artificial intelligence safety
 
 - 🌱 I’m currently learning Python, data structures, and algorithms
 
